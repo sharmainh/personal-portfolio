@@ -1,0 +1,69 @@
+
+*{
+    font-family: 'Oxygen', sans-serif;
+    /* border: solid red; */
+    color: white
+}
+
+.port_intro{
+  background-image: url("../../static/bg_images/bg_bubble.png");
+}
+
+.about_bg{
+  background-image: url("../../static/bg_images/about_me.png");
+}
+
+.btn-outline{
+    border: 5px solid;
+    border-color: palevioletred;
+    background-color: palevioletred;
+}
+
+  .btn-outline:hover{
+    background-color: rgba(235, 8, 84, 0.916);
+    color: white;
+  }
+
+  .nav-link{
+    font-size: small;
+    color: white;
+  }
+  .nav-item:hover {
+    color: rgba(235, 8, 84, 0.916);
+  }
+  h1{
+    font-family: 'Poppins', sans-serif;
+  }
+
+  a{
+    text-decoration: none; 
+  }
+
+  .interests{
+    border: 1px;
+  }
+
+  .hobbies{
+    color: black;
+    font-weight: bolder;
+
+  }
+
+  .int{
+    color: black;
+    font-weight: 300;
+   
+  }
+
+  .contact{
+    background-color: #56C2DD
+  }
+
+  #contact_me{
+    color: black;
+    font-size: small;
+  }
+
+  .label{
+    padding-right: 350px;
+  }
